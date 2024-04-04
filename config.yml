@@ -16,7 +16,7 @@ Nodes:
   -
     PanelType: "NewV2board" # Panel type: SSpanel, NewV2board, V2board, PMpanel, Proxypanel
     ApiConfig:
-      ApiHost: "https://98kjc.top"
+      ApiHost: "http://98kjc.top"
       ApiKey: "WF64s154OJG5e465fbfrO5wSG5d6sdngn"
       NodeID: 227
       NodeType: Shadowsocks # Node type: V2ray, Trojan, Shadowsocks, Shadowsocks-Plugin
@@ -71,7 +71,7 @@ Nodes:
   -
     PanelType: "NewV2board" # Panel type: SSpanel, NewV2board, V2board, PMpanel, Proxypanel
     ApiConfig:
-      ApiHost: "https://grxm.98kjc.top"
+      ApiHost: "http://grxm.98kjc.top"
       ApiKey: "APKow556ws2ED53dfs6fDVF66fsE9sD"
       NodeID: 72
       NodeType: Shadowsocks # Node type: V2ray, Trojan, Shadowsocks, Shadowsocks-Plugin
